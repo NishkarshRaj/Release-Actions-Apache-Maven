@@ -10,12 +10,12 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/NishkarshRaj/Release-Actions-Apache-Maven</developerConnection>
-	  <tag>nish-1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<groupId>github</groupId>
 	<artifactId>nish</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>nish</name>
 	<description>Demonstration for GitHub Actions CI/CD with Release Plugin</description>
 	<properties>
