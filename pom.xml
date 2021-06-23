@@ -15,6 +15,15 @@
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+
+	<distributionManagement>
+		<repository>
+		  <id>mvn-repo</id>
+		  <name>NishkarshRaj</name>
+		  <url>https://maven.pkg.github.com/NishkarshRaj/Release-Actions-Apache-Maven</url>
+		</repository>
+	 </distributionManagement>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
